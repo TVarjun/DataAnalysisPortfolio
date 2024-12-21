@@ -31,4 +31,7 @@ Slicers for filtering by team, player name, and alphabetical order.
 A tooltip page to provide general analytics at a glance.
 # Challenges
 Shaping the Data: Adapting the dataset to meet analytical requirements was the primary challenge, resolved through Power Query transformations and Excel preprocessing.
+# files uploaded
+A PDF File and Raw file uploaded
+
 
