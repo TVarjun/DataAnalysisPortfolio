@@ -1,4 +1,4 @@
-# IPL-AUCTION-ANALYSIS---2025
+# IPL-AUCTION-ANALYSIS---2025 
 Project Overview
 This project analyzes the IPL 2025 auction data to uncover insights into team spending patterns, player categorization, and auction trends. The primary focus is to determine:
 
